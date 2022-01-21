@@ -1,0 +1,15 @@
+sno,weather,temp,play
+0,sunny,hot,no
+1,sunny,hot,no
+2,overcast,hot,yes
+3,rainy,mild,yes
+4,rainy,cool,yes
+5,rainy,cool,no
+6,overcast,cool,yes
+7,sunny,mild,no
+8,sunny,cool,yes
+9,rainy,mild,yes
+10,sunny,mild,yes
+11,overcast,mild,yes
+12,overcast,hot,yes
+13,rainy,mild,no
